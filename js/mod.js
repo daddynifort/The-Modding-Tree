@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "The Red Button Clicker",
 	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	author: "Marcelo Ripa",
+	pointsName: "Gold",
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
@@ -13,7 +13,7 @@ let modInfo = {
 // Set your version in num and name
 let VERSION = {
 	num: "0.0",
-	name: "Literally nothing",
+	name: "Start from nothing",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
